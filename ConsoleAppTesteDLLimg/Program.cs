@@ -41,25 +41,6 @@ namespace ConsoleAppTesteDLLimg
                 Console.WriteLine("lon: " + long_dd);
             }
 
-
-
-            /**
-             aqui
-             */
-
-            //Latitude degrees minutes and seconds (rational)
-            /*degrees = System.BitConverter.ToInt32(byte_property_id, 0) / System.BitConverter.ToInt32(byte_property_id, 4)
-            minutes = System.BitConverter.ToInt32(byte_property_id, 8) / System.BitConverter.ToInt32(byte_property_id, 12)
-            seconds = System.BitConverter.ToInt32(byte_property_id, 16) / System.BitConverter.ToInt32(byte_property_id, 20)
-            lat_dd = degrees + (minutes / 60) + (seconds / 3600)
-
-
-            //Longitude degrees minutes and seconds (rational)
-            degrees = System.BitConverter.ToInt32(byte_property_id, 0) / System.BitConverter.ToInt32(byte_property_id, 4)
-            minutes = System.BitConverter.ToInt32(byte_property_id, 8) / System.BitConverter.ToInt32(byte_property_id, 12)
-            seconds = System.BitConverter.ToInt32(byte_property_id, 16) / System.BitConverter.ToInt32(byte_property_id, 20)
-            long_dd = degrees + (minutes / 60) + (seconds / 3600)*/
-
         }
     }
 }
