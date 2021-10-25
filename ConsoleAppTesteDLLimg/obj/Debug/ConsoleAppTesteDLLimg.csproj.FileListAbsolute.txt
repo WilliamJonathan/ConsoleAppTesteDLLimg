@@ -1,0 +1,9 @@
+D:\projetos\csharp\ConsoleAppTesteDLLimg\ConsoleAppTesteDLLimg\bin\Debug\ConsoleAppTesteDLLimg.exe.config
+D:\projetos\csharp\ConsoleAppTesteDLLimg\ConsoleAppTesteDLLimg\bin\Debug\ConsoleAppTesteDLLimg.exe
+D:\projetos\csharp\ConsoleAppTesteDLLimg\ConsoleAppTesteDLLimg\bin\Debug\ConsoleAppTesteDLLimg.pdb
+D:\projetos\csharp\ConsoleAppTesteDLLimg\ConsoleAppTesteDLLimg\obj\Debug\ConsoleAppTesteDLLimg.csproj.AssemblyReference.cache
+D:\projetos\csharp\ConsoleAppTesteDLLimg\ConsoleAppTesteDLLimg\obj\Debug\ConsoleAppTesteDLLimg.csproj.CoreCompileInputs.cache
+D:\projetos\csharp\ConsoleAppTesteDLLimg\ConsoleAppTesteDLLimg\obj\Debug\ConsoleAppTesteDLLimg.exe
+D:\projetos\csharp\ConsoleAppTesteDLLimg\ConsoleAppTesteDLLimg\obj\Debug\ConsoleAppTesteDLLimg.pdb
+D:\projetos\csharp\ConsoleAppTesteDLLimg\ConsoleAppTesteDLLimg\bin\Debug\ExifLib.dll
+D:\projetos\csharp\ConsoleAppTesteDLLimg\ConsoleAppTesteDLLimg\obj\Debug\ConsoleAppTesteDLLimg.csproj.CopyComplete
